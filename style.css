@@ -1,0 +1,53 @@
+p
+{
+    text-align: justify;
+	font-size: 17px;
+}
+
+h1
+{
+	font-size: 50px;
+	color: red;
+	font-style: oblique;
+	text-decoration: underline;
+	text-align: center;
+}
+
+*
+{
+	font-family: fantasy;
+}
+
+li
+{
+	text-align: justify;
+	font-size: 17px;
+}
+
+h2
+{
+	font-size: 20px;
+}
+
+body
+{
+	background-color: silver;
+}
+
+h1
+{
+	border: 10px black outset;
+	border-radius: 10px
+}
+
+p
+{
+    text-shadow: 2px 2px 6px black;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: red;
+	font-style: italic;
+}
